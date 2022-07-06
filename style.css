@@ -15,12 +15,12 @@ body {
   text-align: center;
   margin-top: 2px;
 }
-#para1 {
+#paragraph {
   font-size: 15px;
   padding-left: 20px;
   padding-right: 20px;
 }
-.top {
+.top-part {
   width: 1330px;
   height: 90vh;
   padding: 10px;
@@ -57,7 +57,7 @@ li {
   align-items: center;
 }
 
-.taka {
+.taka-catagory {
   padding: 20px;
   margin: 10px;
   background-color: rgba(240, 219, 219, 0.76);
@@ -65,7 +65,7 @@ li {
   border-radius: 5px;
   font-weight: 600;
 }
-#fill {
+#fill-color {
   padding: 20px;
   margin: 10px;
   background-color: rgba(250, 127, 118, 0.582);
@@ -128,9 +128,9 @@ li {
   background-color: rgb(231, 230, 230);
   border: none;
 }
-.btn {
+.button {
   background-color: orangered;
-  border: 4px solid salmon;
+  border: 1px solid salmon;
   border-radius: 5px;
   color: white;
 }
@@ -142,7 +142,7 @@ footer {
   text-align: center;
   padding-bottom: 10px;
 }
-.be-humble {
+.footer-heading {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   font-style: italic;
@@ -163,5 +163,5 @@ footer {
   margin: 74px;
   margin-left: 0;
   padding: 24px;
-  height: 480px;
+  height: 330px;
 }
