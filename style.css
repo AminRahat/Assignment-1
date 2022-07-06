@@ -1,3 +1,84 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.banner-tag{
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 10%;
+    margin-bottom: 0;
+
+}
+.banner-tag2{
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 2px;
+}
+#para1{
+    font-size: 14px;
+}
+.top{
+    width: 1330px;
+    height: 90vh;
+    padding: 10px;
+    margin:0 auto;
+    background-image: url(dwn-data/images/donation45.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    
+   
+} 
+.donate-now-button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 800;
+}
+#donate-now{
+    margin-top: 20px;
+}
+
+.donate-today{
+
+    text-align: center;
+    padding-top:5%;
+ 
+}
+li{
+    list-style-type: none;
+}
+.donate-taka{
+    display: flex; 
+   justify-content: center;
+   align-items: center; 
+}
+
+.taka{
+    padding: 20px;
+    margin: 10px;
+    background-color: rgba(240, 219, 219, 0.76);
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+    font-weight: 600;
+}
+#fill{
+    padding: 20px;
+    margin: 10px;
+    background-color: rgba(250, 127, 118, 0.582);
+    border: 1px solid tomato;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+.other-amount{
+  margin:0px 200px 0px 200px; 
+  text-align: center;
+    
 }
